@@ -1,6 +1,8 @@
 # PyConSK 2018: otvorené vzdelávacie zdroje & Python
 
-Prezentácia: http://bit.ly/pyconsk2018edu
+🎥 Video: https://www.youtube.com/watch?v=TSaUbdpH5w0
+<br>
+🖼️ Prezentácia: [http://bit.ly/pyconsk2018edu](https://docs.google.com/presentation/d/1bN85y1KI8AxpM4c8inMuYKxW8BWNp2Dn27WmiCsZzTY/edit)
 
 - [Open Textbook Library: Computer Science & Information Systems](https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=3)
 - [Free Textbooks: Computer Science](http://www.openculture.com/free-computer-science-textbooks)
